@@ -4,9 +4,6 @@ okx-open  开源项目的前端代码  基于ruoyi-vue-plus-ui搭建
 后端地址：https://github.com/chen-banxia/okx-open
 
 * 本仓库为前端技术栈 [Vue3](https://v3.cn.vuejs.org) + [TS](https://www.typescriptlang.org/) + [Element Plus](https://element-plus.org/zh-CN) + [Vite](https://cn.vitejs.dev) 版本。
-* 配套后端代码仓库地址
-* [RuoYi-Vue-Plus 5.X(注意版本号)](https://gitee.com/dromara/RuoYi-Vue-Plus)
-* [RuoYi-Cloud-Plus 2.X(注意版本号)](https://gitee.com/dromara/RuoYi-Cloud-Plus)
 
 ## 前端运行
 
